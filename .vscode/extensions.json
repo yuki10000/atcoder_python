@@ -1,0 +1,7 @@
+{
+  "recommendations": [
+    "KevinRose.vsc-python-indent",
+    "LittleFoxTeam.vscode-python-test-adapter",
+    "dongli.python-preview"
+  ]
+}

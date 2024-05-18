@@ -1,0 +1,10 @@
+numpy
+networkx
+numba
+scipy
+scikit-learn
+
+# linting and formatting
+flake8
+black
+isort
